@@ -1,7 +1,7 @@
 import telebot
 import re
 
-bot = telebot.TeleBot("7010126673:AAHHLWnBG53TEaZxe5YBUFKKHuBe2Zjzy1g")
+bot = telebot.TeleBot("THIS IS A DEMO KEY")
 
 def text_search(message):
     substr = message.text.lower()
